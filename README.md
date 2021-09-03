@@ -15,4 +15,10 @@
 3. India country
 4. Hyderabad
 5. guntur
-    
+* home town
+* movies
+* food
+* family
+  * friends
+  * relatives
+      
