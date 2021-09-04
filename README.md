@@ -32,3 +32,9 @@ This table is about my favorite food items ,drinks and locations where we can fi
 |location|Hyderabad|ulvapadu|nearest Walmart|
 | type   | spicy   | sweet  |    kicky      |
 |Amount  | 20-30   | 20-40  |    15         |
+---
+# Section about Quotes
+>You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul.
+>Author:**swami vivekananda**
+>All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.
+>Author:**swami vivekananda**
