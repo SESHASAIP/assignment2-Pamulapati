@@ -35,6 +35,6 @@ This table is about my favorite food items ,drinks and locations where we can fi
 ---
 # Section about Quotes
 >You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul.
->Author:**swami vivekananda**
+>Author:**swami vivekananda** <br>
 >All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.
 >Author:**swami vivekananda**
