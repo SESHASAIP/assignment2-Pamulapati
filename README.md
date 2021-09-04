@@ -41,4 +41,21 @@ Author:*swami vivekananda*
 ***
 # new section about algorithm and code fencing
 >Algebra began with computations similar to those of arithmetic, with letters standing for numbers.[5] This allowed proofs of properties that are true no matter which numbers are involved. For example, in the quadratic equation quick link to wiki about **algedra**: <https://en.wikipedia.org/wiki/Algebra>
+The function `Extended Euclidean Algorithm` has the definition
+```
+ int gcd(int a, int b, int& x, int& y) {
+    if (b == 0) {
+        x = 1;
+        y = 0;
+        return a;
+    }
+    int x1, y1;
+    int d = gcd(b, a % b, x1, y1);
+    x = y1;
+    y = x1 - y1 * (a / b);
+    return d;
+}
+```
+quick link to code: <https://cp-algorithms.com/algebra/extended-euclid-algorithm.html>
+
 
