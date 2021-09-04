@@ -35,6 +35,14 @@ This table is about my favorite food items ,drinks and locations where we can fi
 ---
 # Section about Quotes
 >You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul.
->Author:**swami vivekananda** <br>
+>Author:*swami vivekananda* <br>
 >All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.
->Author:**swami vivekananda**
+Author:*swami vivekananda*
+***
+# new section about algorithm and code fencing
+>Algebra began with computations similar to those of arithmetic, with letters standing for numbers.[5] This allowed proofs of properties that are true no matter which numbers are involved. For example, in the quadratic equation
+
+{\displaystyle ax^{2}+bx+c=0,}ax^{2}+bx+c=0,
+{\displaystyle a,b,c}a,b,c can be any numbers whatsoever (except that {\displaystyle a}a cannot be {\displaystyle 0}{\displaystyle 0}), and the quadratic formula can be used to quickly and easily find the values of the unknown quantity {\displaystyle x}x which satisfy the equation. That is to say, to find all the solutions of the equation.
+quick link to wiki about **algedra**<https://en.wikipedia.org/wiki/Algebra>
+
