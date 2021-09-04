@@ -21,7 +21,7 @@
 * family
   * friends
   * relatives
-[linktoAboutMe.md](https://github.com/SESHASAIP/assignment2-Pamulapati/blob/main/AboutMe.md)
+**[linktoAboutMe.md](AboutMe.md)**
 ---
 # Section for creating table about food/drinks
 
