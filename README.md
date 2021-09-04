@@ -30,5 +30,5 @@ This table is about my favorite food items ,drinks and locations where we can fi
 |food    | biryani | Mango  |jhony walker   |
 |:------:|  :---:  | :---:  |  :-----:      |
 |location|Hyderabad|ulvapadu|nearest Walmart|
-|:------:|  :---:  | :---:  |  :-----:      |
+| type   | spicy   | sweet  |    kicky      |
 |Amount  | 20-30   | 20-40  |    15         |
