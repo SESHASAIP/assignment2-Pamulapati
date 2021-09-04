@@ -40,9 +40,5 @@ This table is about my favorite food items ,drinks and locations where we can fi
 Author:*swami vivekananda*
 ***
 # new section about algorithm and code fencing
->Algebra began with computations similar to those of arithmetic, with letters standing for numbers.[5] This allowed proofs of properties that are true no matter which numbers are involved. For example, in the quadratic equation
-
-{\displaystyle ax^{2}+bx+c=0,}ax^{2}+bx+c=0,
-{\displaystyle a,b,c}a,b,c can be any numbers whatsoever (except that {\displaystyle a}a cannot be {\displaystyle 0}{\displaystyle 0}), and the quadratic formula can be used to quickly and easily find the values of the unknown quantity {\displaystyle x}x which satisfy the equation. That is to say, to find all the solutions of the equation.
-quick link to wiki about **algedra**<https://en.wikipedia.org/wiki/Algebra>
+>Algebra began with computations similar to those of arithmetic, with letters standing for numbers.[5] This allowed proofs of properties that are true no matter which numbers are involved. For example, in the quadratic equation quick link to wiki about **algedra**: <https://en.wikipedia.org/wiki/Algebra>
 
