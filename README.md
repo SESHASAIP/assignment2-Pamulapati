@@ -27,8 +27,9 @@
 
 Intro:
 This table is about my favorite food items ,drinks and locations where we can find them along with cost 
-|food    | biryani | Mango  |jhony walker   |
+|required|  item1  | item2  |  item3        |
 |:------:|  :---:  | :---:  |  :-----:      |
+|food    | biryani | Mango  |jhony walker   |
 |location|Hyderabad|ulvapadu|nearest Walmart|
 | type   | spicy   | sweet  |    kicky      |
 |Amount  | 20-30   | 20-40  |    15         |
