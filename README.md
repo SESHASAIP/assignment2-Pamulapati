@@ -27,12 +27,12 @@
 
 Intro:
 This table is about my favorite food items ,drinks and locations where we can find them along with cost 
-|required|  item1  | item2  |  item3        |
-|:------:|  :---:  | :---:  |  :-----:      |
-|food    | biryani | Mango  |jhony walker   |
-|location|Hyderabad|ulvapadu|nearest Walmart|
-| type   | spicy   | sweet  |    kicky      |
-|Amount  | 20-30   | 20-40  |    15         |
+|required|  item1  | item2  |  item3        |  item4  |
+|:------:|  :---:  | :---:  |  :-----:      |  :----: |
+|food    | biryani | Mango  |jhony walker   | palkova |
+|location|Hyderabad|ulvapadu|nearest Walmart| guntur  |
+| type   | spicy   | sweet  |    kicky      | delicious|
+|Amount  | 20-30   | 20-40  |    15         |   2   |
 ---
 # Section about Quotes
 >You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul.
